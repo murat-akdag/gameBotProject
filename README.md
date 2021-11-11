@@ -1,2 +1,2 @@
 # gameBotProject
-<img src="gamebotprj.PNG" width="auto">
+<img src="gamebotp.png" width="auto">
